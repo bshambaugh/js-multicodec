@@ -1,3 +1,8 @@
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/multiformats/js-multicodec/compare/v2.0.0...v3.0.0) (2020-07-31)
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/multiformats/js-multicodec/compare/v1.0.4...v2.0.0) (2020-07-31)
 
